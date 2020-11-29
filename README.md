@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Movie Search App built with React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This React app was built following this Srimba tutorial: https://scrimba.com/p/pZaznUL/cdVKdrtr 
 
 ## Available Scripts
 
